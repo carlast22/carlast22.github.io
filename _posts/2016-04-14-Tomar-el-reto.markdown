@@ -37,4 +37,4 @@ Después de dos años, he sacado varias conclusiones que creo pueden servir a mu
 
 ¿Si estoy convencida que fue la mejor decisión? Si ¿Si lo volvería a hacer? Una y otra vez. Creo que el poder romper mi propia burbuja me ha dado las capacidad de sentir que puedo hacer más y que siempre lo puedo lograr.
 
-> Este blog está basado en mi presentación realizada en el [Latinity2015](http://www.latinity.info/), el 9 de noviembre de 2015, en Santiago de Chile y se titula ["Desarrollando Desarrolladoras"]("http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter").
+> Este blog está basado en mi presentación realizada en el [Latinity2015](http://www.latinity.info/), el 9 de noviembre de 2015, en Santiago de Chile y se titula ["Desarrollando Desarrolladoras"](http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras).
