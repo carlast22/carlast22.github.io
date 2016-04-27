@@ -20,20 +20,21 @@ Para poder trazar una proyección de lo que quería hacer en tres, seis o doce m
 
 Una de las cosas que me ayudaron fue dibujar las cosas que quería hacer. Fue útil porque en parte visualizaba las cosas que tenía que hacer y además pude equilibrar el tiempo que tenía con todo lo que quería lograr. 
 
-![Alt text](/img/imagen1.jpg "Imagen1")
+![Alt text](/img/imagen1.png "Imagen1")
 
 Para poder saber si los objetivos que había plateado estaban llevándose a cabo hice una simple matriz para medir mis skills. Esta que tracé es basada en una escala personal, pero existen formas de medir habilidades probadas en el sector académico como la [Escala de Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 
-![Alt text](/img/imagen2.jpg "Imagen2")
+![Alt text](/img/imagen2.png "Imagen2")
 
 Después de dos años, he sacado varias conclusiones que creo pueden servir a muchas como motivación para seguir adelante:
-+ No es una carrera de velocidad, sino de resistencia.
-+ Todos tenemos algo que aportar.
-+ Lidiar con el [síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor) es vital.
-+ Nada se consigue si no viene cargado de pasión.
-+ Querer es poder.
-+ Hacer oídos sordos y seguir de frente.
+
+- No es una carrera de velocidad, sino de resistencia.
+- Todos tenemos algo que aportar.
+- Lidiar con el [síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor) es vital.
+- Nada se consigue si no viene cargado de pasión.
+- Querer es poder.
+- Hacer oídos sordos y seguir de frente.
 
 ¿Si estoy convencida que fue la mejor decisión? Si ¿Si lo volvería a hacer? Una y otra vez. Creo que el poder romper mi propia burbuja me ha dado las capacidad de sentir que puedo hacer más y que siempre lo puedo lograr.
 
-> Este blog está basado en mi presentación realizada en el [Latinity2015](http://www.latinity.info/) en Santiago de Chile y se titula ["Desarrollando Desarrolladoras"]("http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter") el 9 de noviembre de 2015.
+> Este blog está basado en mi presentación realizada en el [Latinity2015](http://www.latinity.info/), el 9 de noviembre de 2015, en Santiago de Chile y se titula ["Desarrollando Desarrolladoras"]("http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter").
