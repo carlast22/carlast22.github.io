@@ -10,6 +10,8 @@ description:         'Soy desarrolladora de software en <a href="http://www.thou
 url:                 http://carlasuarez.xyz
 baseurl:             ''
 paginate:            5
+gems:
+  - jekyll-paginate-v2
 
 # About/contact
 author:
