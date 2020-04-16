@@ -7,4 +7,4 @@
 Run locally with:
 
 ```
-jekyll serve
+bundle exec jekyll serve
