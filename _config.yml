@@ -1,22 +1,20 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /blog/:title/
+permalink:           /:title/
 
 # Setup
 title:               Carla Suárez
 tagline:             'Periodista y Desarrolladora'
-description:         'Soy desarrolladora de software en <a href="http://www.thoughtworks.com/">ThoughtWorks</a>'
-url:                 http://carlasuarez.xyz
+description:         'Soy desarrolladora de software en <a href="https://www.thoughtworks.com/">ThoughtWorks</a>'
+url:                 https://carlasuarez.xyz
 baseurl:             ''
 paginate:            5
+paginate_path:       /blog/page:num/
 gems:
   - jekyll-paginate
 
 # About/contact
 author:
   name:              Carla Suárez
-  url:               http://carlasuarez.xyz
-
-# Custom vars
-version:             1.0.0
+  url:               https://carlasuarez.xyz
