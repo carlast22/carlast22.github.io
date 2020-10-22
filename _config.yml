@@ -4,9 +4,8 @@
 permalink:           /blog/:title/
 
 # Setup
-title:               Carla Suárez
+title:               Carla Suárez Tipán
 tagline:             'Periodista y Desarrolladora'
-description:         'Soy desarrolladora de software en <a href="https://www.thoughtworks.com/">ThoughtWorks</a>'
 url:                 https://carlasuarez.xyz
 baseurl:             ''
 paginate:            5
@@ -21,3 +20,4 @@ author:
   github:            https://github.com/carlast22
   linkedin:          https://linkedin.com/in/carlasuarez22
   twitter:           https://twitter.com/carlast22
+  company:           https://www.thoughtworks.com/
