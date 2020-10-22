@@ -3,5 +3,30 @@ layout: default
 title: Home
 ---
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo sunt incidunt quod, beatae dicta deleniti voluptatem cum, assumenda magnam exercitationem eaque! Distinctio mollitia laborum amet ad nihil optio impedit quibusdam.
-
+<article
+  class="vh-100 flex flex-column justify-center items-center w-100 bg-white"
+>
+  <div class="tc black ph3">
+    <h1 class="f1 b">{{ site.title }}</h1>
+    <h2 class="f2 i normal">{{ site.tagline }}</h2>
+  </div>
+  <nav class="flex f4">
+    <a class="link dim mh3" href="{{ site.author.github }}">
+      <img alt="github" class="img" src="/img/icons/github.svg" />
+    </a>
+    <a class="link dim mh3" href="{{ site.author.twitter }}">
+      <img alt="twitter" class="img" src="/img/icons/twitter.svg" />
+    </a>
+    <a class="link dim mh3" href="{{ site.author.linkedin }}">
+      <img alt="linkedin" class="img" src="/img/icons/linkedin.svg" />
+    </a>
+    <a class="flex items-center link dim mh3 black" href="/blog">
+      <img alt="blog" class="img mr1" src="/img/icons/feather.svg" />
+      Blog
+    </a>
+    <a class="flex items-center link dim mh3 black" href="/cv">
+      <img alt="blog" class="img mr1" src="/img/icons/file-text.svg" />
+      CV
+    </a>
+  </nav>
+</article>

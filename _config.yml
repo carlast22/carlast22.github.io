@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:title/
+permalink:           /blog/:title/
 
 # Setup
 title:               Carla Suárez
@@ -18,3 +18,6 @@ gems:
 author:
   name:              Carla Suárez
   url:               https://carlasuarez.xyz
+  github:            https://github.com/carlast22
+  linkedin:          https://linkedin.com/in/carlasuarez22
+  twitter:           https://twitter.com/carlast22
