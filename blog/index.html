@@ -4,17 +4,18 @@ title: Blog
 ---
 
 <div class="mv5">
+  <h1 class="f2 pa3 mw7 center">Blog</h1>
   {% for post in paginator.posts %}
-  <article class="pa3 mw7 center ba b--moon-gray br4 mb4">
+  <article class="pa3 mw7 center bt b--moon-gray mb4">
     <a href="{{ post.url }}" class="db pa3 no-underline black dim">
       <div class="post">
-        <h1 class="post-title">{{ post.title }}</h1>
-        <span class="post-date">{{ post.date | date_to_string }}</span>
+        <h1 class="f3">{{ post.title }}</h1>
+        <span class="f4">{{ post.date | date_to_string }}</span>
       </div>
     </a>
   </article>
   {% endfor %}
-  <nav class="flex items-center justify-center mw7 db ph8 pv5 center">
+  <nav class="flex items-center justify-center mw7 db ph8 pv4 center bt b--moon-gray">
     <div class="pr5 br b--moon-gray">
       {% if paginator.next_page %}
       <a
