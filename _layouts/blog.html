@@ -4,7 +4,8 @@
 
   <body>
     <main class="flex flex-column min-vh-100">
-      <section class="flex-auto ">{{content}}</section>
+      {% include header.html %}
+      <section class="flex-auto ph7 pv2">{{content}}</section>
       {% include footer.html %}
     </main>
   </body>

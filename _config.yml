@@ -4,7 +4,7 @@
 permalink:           /blog/:title/
 
 # Setup
-title:               Carla Suárez Tipán
+title:               Carla Suárez
 tagline:             'Periodista y Desarrolladora'
 url:                 https://carlasuarez.xyz
 baseurl:             ''
