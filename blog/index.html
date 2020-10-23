@@ -3,34 +3,58 @@ layout: blog
 title: Blog
 ---
 
-<div class="posts">
+<div class="mv5">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-  </div>
+  <article class="pa3 mw7 center ba b--moon-gray br4 mb4">
+    <a href="{{ post.url }}" class="db pa3 no-underline black dim">
+      <div class="post">
+        <h1 class="post-title">{{ post.title }}</h1>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+      </div>
+    </a>
+  </article>
   {% endfor %}
+  <nav class="flex items-center justify-center mw7 db ph8 pv5 center">
+    <div class="pr5 br b--moon-gray">
+      {% if paginator.next_page %}
+      <a
+        class="flex items-center link dim black"
+        href="page{{paginator.next_page}}"
+      >
+        <img alt="atrás" class="img mr1" src="/img/icons/arrow-left.svg" />
+        Atrás
+      </a>
+      {% else %}
+
+      <span class="flex items-center black">
+        <img alt="atrás" class="img mr1" src="/img/icons/arrow-left.svg" />
+        Atrás
+      </span>
+    </div>
+
+    <div class="pl5">
+      {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %}
+      <a class="flex items-center link dim black" href="/blog">
+        Adelante
+        <img alt="atrás" class="img mr1" src="/img/icons/arrow-right.svg" />
+      </a>
+      {% else %}
+      <a
+        class="flex items-center link dim black"
+        href="page{{paginator.previous_page}}"
+      >
+        Adelante<img
+          alt="atrás"
+          class="img mr1"
+          src="/img/icons/arrow-right.svg"
+        />
+      </a>
+      {% endif %} {% else %}
+      <span class="flex items-center black">
+        Adelante
+        <img alt="atrás" class="img mr1" src="/img/icons/arrow-right.svg" />
+      </span>
+      {% endif %}
+    </div>
+  </nav>
 </div>
-
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/blog">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->
-
