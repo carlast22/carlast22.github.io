@@ -20,11 +20,11 @@ Para poder trazar una proyección de lo que quería hacer en tres, seis o doce m
 
 Una de las cosas que me ayudaron fue dibujar las cosas que quería hacer. Fue útil porque en parte visualizaba las cosas que tenía que hacer y además pude equilibrar el tiempo que tenía con todo lo que quería lograr. 
 
-![Alt text](/img/imagen1.png "Imagen1")
+![Plan anual](/img/4.jpg "Imagen1")
 
 Para poder saber si los objetivos que había plateado estaban llevándose a cabo hice una simple matriz para medir mis skills. Esta que tracé es basada en una escala personal, pero existen formas de medir habilidades probadas en el sector académico como la [Escala de Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 
-![Alt text](/img/imagen2.png "Imagen2")
+![Escala de Dreyfus](/img/5.png "Imagen2")
 
 Después de dos años, he sacado varias conclusiones que creo pueden servir a muchas como motivación para seguir adelante:
 
