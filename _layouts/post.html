@@ -3,11 +3,10 @@ layout: blog
 ---
 
 <article class="pv5 ph3 mw7 center">
+  {% include navigation.html %}
   <h1 class="pv0 mv4 f-subheadline">{{ page.title }}</h1>
   <span class="f5 i">{{ page.date | date_to_string }}</span>
-  <section class="flex flex-column pv4 f4 lh-copy">
-    {{ content }}
-  </section>
+  <section class="flex flex-column pv4 f4 lh-copy">{{ content }}</section>
 
   <div class="bt b--black-70">
     <h2>Entradas relacionadas</h2>
@@ -24,4 +23,5 @@ layout: blog
       {% endfor %}
     </ul>
   </div>
+  <div class="pt5">{% include navigation.html %}</div>
 </article>
