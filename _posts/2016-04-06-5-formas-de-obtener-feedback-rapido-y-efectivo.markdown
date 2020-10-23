@@ -2,6 +2,8 @@
 layout: post
 title:  "5 formas de obtener feedback más rápido y efectivo"
 date:   2016-04-06 23:30:23
+description: "En un proceso de desarrollo y aprendizaje contínuo saber dónde estás, qué te hace falta y cuáles son los siguientes pasos son las preguntas constantes. Aquí algunos tips de mi experiencia en el primer año cuando hice cambio de carrera"
+imagen: "/img/2.jpg"
 ---
 En enero del 2014, empecé mi camino en [ThoughtWorks]("https://www.thoughtworks.com/"). Antes de eso, era una periodista que nunca disfrutó de la technología. Sin embargo, cuando trabajé como redactora para una revista de tecnología, me dejé absorber por ese mundo. Mi interés en el Desarrollo de Software nació tras escuchar una charla de [Rebecca Parsons]("https://www.thoughtworks.com/profiles/rebecca-parsons"); fue una gran inspiración. Entonces, empecé a estudiar sobre tecnología y específicamente sobre programación a través de recursos en línea. Pero a la final, ThoughtWorks ha sido mi escuela.
 

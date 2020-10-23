@@ -2,6 +2,8 @@
 layout: post
 title:  "Cuándo tomas el reto"
 date:   2016-04-14 18:42:34
+description: "Hace dos años decidí cambiarme de carrera y emprender un nuevo trayecto profesional. Esta es mi experiencia, cómo lo hice y cuáles fueron los aprendizajes."
+imagen: "/img/foto1.jpg"
 ---
 
 Hace más de dos años empecé una nueva carrera desde la nada, decidí tomar el reto de convertirme en desarrolladora de software. Nunca fui una persona tecnológica ni apasionada por la industria, mucho menos una *geek*. En esta transición he conocido a muchas que están en este camino y hemos compartido algunas experiencias, principalmente la frustración y a la vez el deseo inmenso de lograrlo. Para muchas, como para mi, empezó como un reto personal, cuando todos dijeron que no lo lograría y que sólo era un pasatiempo. Las ganas de lograrlo pudieron más y creo que después de tanto tiempo, no lo hubiera logrado sin ese imenso deseo de conseguirlo.
