@@ -3,21 +3,19 @@ layout: default
 title: Home
 ---
 
-<article
+<!-- <article
   class="vh-75 flex flex-column justify-center items-center w-100 bg-white"
 >
   <div class="tc black ph3">
-    <h1 class="f1 b mb2">{{ site.title }}</h1>
-    <p class="f3 i normal mv0">{{ site.tagline }}</p>
+    <h1 class="f-subheadline b mb2 site-title">{{ site.title }}</h1>
     <section>
-      <p class="mh7 pv4 f5 lh-copy">
-        En mi vida quise ser de todo: doctora, arquitecta, abogada, bailarina. Al final escogí el Periodismo como carrera profesional. Una de las cosas que más disfruto es escribir y ahora escribo código.<br>
-        Soy Senior Consultant Developer en <a class="link black hover-bg-light-gray" href="{{ site.author.company }}">Thoughtworks</a> desde el 2014.
-        He aprendido varias técnologías, pero lo que más me gusta es el Desarrollo Frontend, interactuar con el usuario y crear aplicaciones que sean inclusivas para todos. 
-        Soy una activista de la justicia de género y la equidad. Creo que el cambio social es posible y debe empezar desde uno mismo.
+      <p class="mh7 pv4 f4 lh-copy">
+        Senior Consultant Developer en <a class="link black hover-bg-light-gray" href="{{ site.author.company }}">ThoughtWorks</a> y Periodista.<br>
+        Activista de la justicia de género y la equidad.<br>
+        Creo que el cambio social es posible y debe empezar desde uno mismo.
     </section>
   </div>
-  <nav class="flex f3">
+  <nav class="flex f4 pt4 ">
     <a class="flex items-center link dim mh5 black" href="/blog">
       <img alt="blog" class="img mr1" src="/img/icons/feather.svg" />
       Blog
@@ -31,4 +29,55 @@ title: Home
       Charlas
     </a>
   </nav>
+</article> -->
+
+<article class="flex bg-white vh-100">
+  <div class="w-40">
+    <div class="mv7 ml6 pt4">
+      <p class="f1 b mb2">Periodista<br>Desarrolladora<br></p>
+      <section>
+        <p class="f4 lh-copy mw6">
+          Senior Consultant Developer en
+          <a
+            class="link black hover-bg-light-gray"
+            href="{{ site.author.company }}"
+            >ThoughtWorks</a>.<br>
+            Me encanta el Desarrollo Front-end.<br>
+            Activista de la justicia de género y la equidad.<br>
+          Creo que el cambio social es posible y debe empezar desde uno mismo.
+        </p>
+      </section>
+    </div>
+  </div>
+  <div class="f2 bg-blue w-60">
+    <section class="pa4 w-60 center mv4">
+      <div class="flex flex-column ba b--white pa4 mb5">
+        <a class="link dim white" href="/blog">
+          <img alt="blog" class="img mr1" src="/img/icons/feather.svg" />
+          Blog
+          <p class="ph2 f5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga reiciendis ipsam sed excepturi porro molestias labore? Nesciunt velit quod soluta consequatur explicabo, non cum laborum, quis obcaecati architecto mollitia quasi.
+          </p>
+        </a>
+      </div>
+      <div class="flex flex-column ba b--white pa4 mb5">
+        <a class="link dim white" href="/charlas">
+          <img alt="charlas" class="img mr1" src="/img/icons/coffee.svg" />
+          Charlas
+          <p class="ph2 f5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga reiciendis ipsam sed excepturi porro molestias labore? Nesciunt velit quod soluta consequatur explicabo, non cum laborum, quis obcaecati architecto mollitia quasi.
+          </p>
+        </a>
+      </div>
+      <div class="flex flex-column ba b--white pa4 mb5">
+        <a class="link dim white" href="/cv">
+          <img alt="cv" class="img mr1" src="/img/icons/file-text.svg" />
+          CV
+          <p class="ph2 f5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga reiciendis ipsam sed excepturi porro molestias labore? Nesciunt velit quod soluta consequatur explicabo, non cum laborum, quis obcaecati architecto mollitia quasi.
+          </p>
+        </a>
+      </div>
+    </section>
+  </div>
 </article>
