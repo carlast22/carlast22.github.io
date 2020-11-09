@@ -6,7 +6,7 @@ layout: blog
   {% include navigation.html %}
   <h1 class="pv0 mv4 f-subheadline">{{ page.title }}</h1>
   <span class="f5 i">{{ page.date | date_to_string }}</span>
-  <section class="flex flex-column pv4 f4 lh-copy">{{ content }}</section>
+  <section class="post-content flex flex-column pv4 f4 lh-copy">{{ content }}</section>
 
   <div class="bt b--black-70">
     <h2>Entradas relacionadas</h2>
@@ -14,7 +14,7 @@ layout: blog
       {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
+          <a class="theme-blue no-underline" href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>

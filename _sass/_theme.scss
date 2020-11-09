@@ -1,0 +1,57 @@
+$paradise-pink: #ef476fff;
+$orange-yellow-crayola: #ffd166ff;
+$caribbean-green: #06d6a0ff;
+$blue-ncs: #118ab2ff;
+$midnight-green-eagle-green: #073b4cff;
+$gray: #454545;
+
+.theme-pink {
+  color: $paradise-pink;
+}
+.theme-yellow {
+  color: $orange-yellow-crayola;
+}
+.theme-light-green {
+  color: $caribbean-green;
+}
+.theme-blue {
+  color: $blue-ncs;
+}
+.theme-dark-green {
+  color: $midnight-green-eagle-green;
+}
+.theme-gray {
+  color: $gray;
+}
+
+.theme-bg-pink {
+  background-color: $paradise-pink;
+}
+.theme-bg-yellow {
+  background-color: $orange-yellow-crayola;
+}
+.theme-bg-light-green {
+  background-color: $caribbean-green;
+}
+.theme-bg-blue {
+  background-color: $blue-ncs;
+}
+.theme-bg-dark-green {
+  background-color: $midnight-green-eagle-green;
+}
+.theme-bg-gray {
+  background-color: $gray;
+}
+
+.post-content {
+  @extend .theme-gray;
+
+  a {
+    @extend .theme-blue;
+    text-decoration: none;
+    &:hover {
+      color: lighten($blue-ncs, 20%);
+      text-decoration: underline;
+    }
+  }
+}
