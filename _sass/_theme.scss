@@ -1,9 +1,8 @@
 $paradise-pink: #ef476fff;
 $orange-yellow-crayola: #ffd166ff;
-$caribbean-green: #06d6a0ff;
 $blue-ncs: #118ab2ff;
-$midnight-green-eagle-green: #073b4cff;
-$gray: #454545;
+$indigo-dye: #0b3c5dff;
+$eerie-black: #282828ff;
 
 .theme-pink {
   color: $paradise-pink;
@@ -11,17 +10,14 @@ $gray: #454545;
 .theme-yellow {
   color: $orange-yellow-crayola;
 }
-.theme-light-green {
-  color: $caribbean-green;
+.theme-indigo {
+  color: $indigo-dye;
 }
 .theme-blue {
   color: $blue-ncs;
 }
-.theme-dark-green {
-  color: $midnight-green-eagle-green;
-}
-.theme-gray {
-  color: $gray;
+.theme-black {
+  color: $eerie-black;
 }
 
 .theme-bg-pink {
@@ -30,21 +26,15 @@ $gray: #454545;
 .theme-bg-yellow {
   background-color: $orange-yellow-crayola;
 }
-.theme-bg-light-green {
-  background-color: $caribbean-green;
+.theme-bg-indigo {
+  background-color: $indigo-dye;
 }
 .theme-bg-blue {
   background-color: $blue-ncs;
 }
-.theme-bg-dark-green {
-  background-color: $midnight-green-eagle-green;
-}
-.theme-bg-gray {
-  background-color: $gray;
-}
 
 .post-content {
-  @extend .theme-gray;
+  @extend .theme-black;
 
   a {
     @extend .theme-blue;
