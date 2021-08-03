@@ -1,9 +1,31 @@
 ---
-layout: charlas
+layout: talks
 title: Charlas
 ---
 
 <div class="mv5">
   <h1 class="f2 pa3 mw7 center theme-pink ">Charlas</h1>
+  <div class="mw7 pv3 ph4 center bt b--moon-gray mb4">
+    {% for talk in site.data.talks %}
+    <div class="flex flex-column flex-row-ns pv4">
+      <div class="pr3-ns mb4 mb0-ns w-100 w-60-ns">
+        <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+          <iframe src="{{ talk.iframe_src }}" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe>
+        </div>
+      </div>
+      <div class="w-100 w-40-ns">
+        <a href="{{ talk.url }}" class="db no-underline black dim">
+          <div class="flex flex-column flex-row-ns">
+            <div class="w-100">
+              <h1 class="f3 mv0">{{ talk.title }}</h1>
+              <p class="f6">{{ talk.description }}</p>
+              <span class="f6">{{ talk.conference }} | {{ talk.date }}</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>  
+    {% endfor %}
+  </div>
 </div>
 
