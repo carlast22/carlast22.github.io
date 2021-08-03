@@ -1,13 +1,13 @@
 - title: Desarrollando Desarrolladoras
   conference: LaTInity, Santiago de Chile
-  description: blah
+  description: Esta charla recoje consejos y recomendaciones para poder apoyar a personas que están empezando en la programación, así como también aportar nuevas ideas a las personas que conforman su red de soporte. Está basada en mi experiencia transicionando de periodista a desarrolladora.
   url: https://speakerdeck.com/carlast22/desarrollando-desarrolladoras-developing-developers
   iframe_src: https://speakerdeck.com/player/d972cd995efe4d3aa352dc61bed715f3
   date: Noviembre, 2015
 
 - title: Why use Docker and Compose in you CI?
   conference: RubyConf, São Paulo
-  description: blah
+  description: Esta charla se enfoca en los conceptos de CI y CD y la importancia que tienen. Además, resalta los beneficios de implementarlos en los proyectos de desarrollo de software. Como parte de la presentación se incluye un ejemplo práctica para desplegar una app simple de Ruby con Docker.
   url: https://speakerdeck.com/carlast22/desarrollando-desarrolladoras-developing-developers
   iframe_src: https://speakerdeck.com/player/597aae9f4d154769888d3b34761a2787
   date: Septiembre, 2016
