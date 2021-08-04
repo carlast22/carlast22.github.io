@@ -8,6 +8,6 @@
 - title: Why use Docker and Compose in you CI?
   conference: RubyConf, São Paulo
   description: Esta charla se enfoca en los conceptos de CI y CD y la importancia que tienen. Además, resalta los beneficios de implementarlos en los proyectos de desarrollo de software. Como parte de la presentación se incluye un ejemplo práctica para desplegar una app simple de Ruby con Docker.
-  url: https://speakerdeck.com/carlast22/desarrollando-desarrolladoras-developing-developers
+  url: https://speakerdeck.com/carlast22/why-use-docker-and-compose-in-your-ci
   iframe_src: https://speakerdeck.com/player/597aae9f4d154769888d3b34761a2787
   date: Septiembre, 2016
