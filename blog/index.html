@@ -4,12 +4,12 @@ title: Blog
 ---
 
 <div class="mv5">
-  <h1 class="f2 pa3 mw7 center site-title theme-pink">
+  <h1 class="f2 pa3 mw8 center site-title theme-pink">
     <img alt="blog" src="/img/icons/feather-pink.svg" />
     Blog
   </h1>
   {% for post in paginator.posts %}
-  <article class="flex flex-wrap mw7 pv3 ph4 center bt b--moon-gray mb4">
+  <article class="flex flex-wrap mw8 pv3 ph4 center bt b--moon-gray mb4">
     <a href="{{ post.url }}" class="db pv3 no-underline black dim">
       <div class="flex flex-column flex-row-ns">
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
@@ -25,7 +25,7 @@ title: Blog
   </article>
   {% endfor %}
   <nav
-    class="flex items-center justify-center mw7 db ph8 pv4 center bt b--moon-gray"
+    class="flex items-center justify-center mw8 db ph8 pv4 center bt b--moon-gray"
   >
     <div class="pr5 br b--moon-gray">
       {% if paginator.next_page %}
