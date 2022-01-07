@@ -12,13 +12,13 @@ title: Blog
   <article class="flex flex-wrap mw8 pv3 ph4 center bt b--moon-gray mb4">
     <a href="{{ post.url }}" class="db pv3 no-underline black dim">
       <div class="flex flex-column flex-row-ns">
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+        <div class="pr4-ns mb4 mb0-ns w-100 w-80-ns">
           <img src="{{ post.imagen }}" alt="imagen del post">
         </div>
         <div class="w-100">
           <h1 class="f3 mt0">{{ post.title }}</h1>
-          <p class="f6">{{ post.description }}</p>
-          <span class="f6">{{ post.date | date_to_string }}</span>
+          <p class="f4-l f6">{{ post.description }}</p>
+          <span class="f4-l f6">{{ post.date | date_to_string }}</span>
         </div>
       </div>
     </a>
