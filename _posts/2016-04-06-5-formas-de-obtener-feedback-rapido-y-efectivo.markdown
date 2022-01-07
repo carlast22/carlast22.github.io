@@ -5,15 +5,15 @@ date:   2016-04-06 23:30:23
 description: "En un proceso de desarrollo y aprendizaje contínuo saber dónde estás, qué te hace falta y cuáles son los siguientes pasos son las preguntas constantes. Aquí algunos tips de mi experiencia en el primer año cuando hice cambio de carrera"
 imagen: "/img/2.jpg"
 ---
-En enero del 2014, empecé mi camino en [ThoughtWorks]("https://www.thoughtworks.com/"). Antes de eso, era una periodista que nunca disfrutó de la technología. Sin embargo, cuando trabajé como redactora para una revista de tecnología, me dejé absorber por ese mundo. Mi interés en el Desarrollo de Software nació tras escuchar una charla de [Rebecca Parsons]("https://www.thoughtworks.com/profiles/rebecca-parsons"); fue una gran inspiración. Entonces, empecé a estudiar sobre tecnología y específicamente sobre programación a través de recursos en línea. Pero a la final, ThoughtWorks ha sido mi escuela.
+En enero del 2014, empecé mi camino en [ThoughtWorks](https://www.thoughtworks.com/). Antes de eso, era una periodista que nunca disfrutó de la technología. Sin embargo, cuando trabajé como redactora para una revista de tecnología, me dejé absorber por ese mundo. Mi interés en el Desarrollo de Software nació tras escuchar una charla de [Rebecca Parsons](https://www.thoughtworks.com/profiles/rebecca-parsons); fue una gran inspiración. Entonces, empecé a estudiar sobre tecnología y específicamente sobre programación a través de recursos en línea. Pero a la final, ThoughtWorks ha sido mi escuela.
 
-Mucho ha sucedido durante mi primer año aquí y tuve que aprender todo desde el inicio. Fui a [TWU]("https://www.thoughtworks.com/insights/blog/cultivating-next-generation-technical-talent"), fui parte de mi primer proyecto de Desarrollo de Software, me involucré en Iniciativas Sociales, apoyé eventos tecnológicos entre otras cosas. Nueve meses en ThoughtWorks no parecen mucho pero cuando tratas de capturar todo en lo que has participado, parece que ha sido mucho más. Y eso fue exactamente lo que necesitaba hacer - capturar todo para compartirlo en el ejercicio de revisión de desarrollo.
+Mucho ha sucedido durante mi primer año aquí y tuve que aprender todo desde el inicio. Fui a [TWU](https://www.thoughtworks.com/insights/blog/cultivating-next-generation-technical-talent), fui parte de mi primer proyecto de Desarrollo de Software, me involucré en Iniciativas Sociales, apoyé eventos tecnológicos entre otras cosas. Nueve meses en ThoughtWorks no parecen mucho pero cuando tratas de capturar todo en lo que has participado, parece que ha sido mucho más. Y eso fue exactamente lo que necesitaba hacer - capturar todo para compartirlo en el ejercicio de revisión de desarrollo.
 
 ![Alt text](/img/foto1.jpg "Foto1")
 
 ![Alt text](/img/2.jpg "Foto2")
 
-Empecé a armar una presentación, pero después de 30 diapositivas me di cuenta que estaba fallando completamente de llegar al punto que trataba de mostrar y comunicar lo que quería. Un compañero me sugirió hablar sobre mi trayectoria como si contara una historia. Había pasado 4 años en periodismo y me había familiarizado con la sencillez de una narración. Decidí usar la metodología de las [5W's]("https://en.wikipedia.org/wiki/Five_Ws") para empezar a construir mi historia.
+Empecé a armar una presentación, pero después de 30 diapositivas me di cuenta que estaba fallando completamente de llegar al punto que trataba de mostrar y comunicar lo que quería. Un compañero me sugirió hablar sobre mi trayectoria como si contara una historia. Había pasado 4 años en periodismo y me había familiarizado con la sencillez de una narración. Decidí usar la metodología de las [5W's](https://en.wikipedia.org/wiki/Five_Ws) para empezar a construir mi historia.
 
 Usando las 5 preguntas básicas (quién, qué, dónde, cuándo, dónde y por qué) pude armar mi historia sin irme por las ramas. Me enfoqué principalmente en mi desarrollo, crecimiento y mi participación en la empresa, así como en el desarrollo de otros en la compañía. Y pude dar suficiente contexto. Adicionalmente a las 5Ws, incluí un *cómo* a mi historia, lo que la hizo mucho más comprensible.
 
@@ -31,7 +31,7 @@ Tenía todas mis ideas en la cabeza cuando empecé a armar las diapositivas, el 
 
 **3. Trazar tu hoja de ruta**
 
-Mi coach sugirió que dibujara todos mis objetivos en una línea de tiempo. Esto me permitió balancear lo que era más importante dado el tiempo que tenía para dedicarle a cada actividad. Primero, tracé donde creía que yo estaba y a dónde quería llegar. Usé un método de medición similar a la [escala de Dreyfus]("https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition") para ayudarme a medir mis habilidades y conocimientos en una aptitud específica. Una vez hecho esto, dibujé mi camino a través de 5 áreas específicas en las que quería enfocarme: personal, profesional, aprendizaje, cambio social y entrega del proyecto. Con esto, pude balancear las actividades y abarcar todas las áreas, dándole más importancia a aquellas que creía necesitaba mejorar sin dejar de hacer otras.
+Mi coach sugirió que dibujara todos mis objetivos en una línea de tiempo. Esto me permitió balancear lo que era más importante dado el tiempo que tenía para dedicarle a cada actividad. Primero, tracé donde creía que yo estaba y a dónde quería llegar. Usé un método de medición similar a la [escala de Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) para ayudarme a medir mis habilidades y conocimientos en una aptitud específica. Una vez hecho esto, dibujé mi camino a través de 5 áreas específicas en las que quería enfocarme: personal, profesional, aprendizaje, cambio social y entrega del proyecto. Con esto, pude balancear las actividades y abarcar todas las áreas, dándole más importancia a aquellas que creía necesitaba mejorar sin dejar de hacer otras.
 
 ![Alt text](/img/4.jpg "Foto4")
 
@@ -49,5 +49,5 @@ Todos somos concientes de que los planes cambian de un día a otro. Pero, es imp
 
 Estos cinco puntos me ayudaron a contar mi historia en 15 minutos y lo más importante, me ayudaron a establecer mis objetivos para un fuutro inmediato. Como recomendación final, creo que uno de los puntos más importantes dentro de mi experiencia es: asegurarse de que la historia de tu trayecto refleje quién eres y que tenga tu marca personal. Esto fue a mi manera y tiene mucho de lo que soy y lo que quiero llegar a ser. ¡Les deseo un camino valioso y productivo!
 
-> Este blog fue publicado en inglés por primera vez en [Insights]("https://www.thoughtworks.com/insights/blog/5-ways-faster-and-more-effective-feedback") el 5 de febrero de 2015.
+> Este blog fue publicado en inglés por primera vez en [Insights](https://www.thoughtworks.com/insights/blog/5-ways-faster-and-more-effective-feedback) el 5 de febrero de 2015.
 
